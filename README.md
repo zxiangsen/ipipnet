@@ -1,2 +1,2 @@
 # ipipnet
-ipipnet java parser
+java解析ip地址库
